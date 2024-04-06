@@ -100,3 +100,7 @@ Whereas RDBMS stores data in rows and reads it row by row, column-oriented datab
 
 - Amazon DynamoDB is a Key-value and Document type database, its query language is called AQL, it deals with ACID Transactions, and its horizontal.
 
+# Sources
+
+mongodb.com
+bairesdev.com
